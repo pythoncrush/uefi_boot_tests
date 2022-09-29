@@ -1,0 +1,11 @@
+Package        Version
+-------------- --------
+DateTime       4.7
+future         0.18.2
+iso8601        0.1.16
+pip            20.3.4
+pytz           2022.2.1
+PyYAML         5.4.1
+serial         0.0.97
+setuptools     41.2.0
+zope.interface 5.4.0
